@@ -47,7 +47,6 @@ Best-performing models:
 | SVM (RBF) | 0.97 | 0.97 | 0.96 | 0.96 | 0.99 |
 | Neural Network | 0.97 | 0.96 | 0.95 | 0.95 | 0.99 |
 
-*(Replace with your actual results.)*
 
 ---
 
